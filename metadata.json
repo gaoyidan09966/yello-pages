@@ -1,0 +1,6 @@
+{
+  "name": "县城万能便民黄页",
+  "description": "一个服务于县城百姓的本地便民生活信息黄页平台。包含分类导航、模糊搜索、商家详情展示、电话复制、微信联系以及功能完备的后台管理系统（支持 AI 智能生成商家详情）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
